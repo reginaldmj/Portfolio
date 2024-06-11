@@ -1,8 +1,8 @@
-# Chelsea Tolnai - Full Stack Web Developer
+# Reginald Jefferson - Full Stack Web Developer
 
-I am a Full Stack Web Developer currently located in Rhode Island. This is my personal portfolio website that showcases my experience, education, recent projects, technical skill stack, contact information, and a little bit more about me. 
+I am a Full Stack Web Developer currently located in Illinois. This is my personal portfolio website that showcases my experience, education, recent projects, technical skill stack, contact information, and a little bit more about me. 
 
-You can view my portfolio at [www.ChelseaTolnai.com](https://www.ChelseaTolnai.com).
+You can view my portfolio at ________.
 
 ## About Me
 
@@ -14,22 +14,22 @@ My legal and management positions bring a fresh prospective to techincal and lea
 
 ## Experience
 
-### CVS Health - Senior Development Engineer
+### Reginald Jefferson - Full Stack Web Developer and Software Engineer
 
 Develop, design, and deploy e-commerce sites for a Fortune 10 company, including
 [CVS.com/shop](https://www.cvs.com/shop). Manage team of frontend engineers through the project lifecycle. Closely collaborate with engineering and product management, architects, stakeholders and design teams. Additional focuses on security, analytics, accessibility, ad injection and frontend architecture.
 
-### CBTS - Software Engineer
+### American Express - Travel Consultant
 
 Contracted Software Engineer working on-site at CVS Health.
 
-### Lambda School - Team Lead
+### Broadpath - Member Service Representatitve
 
 Lead and assist two agile teams of several web and app developers to create real-world prototype applications throughout an eight week continued educational program.
 
 ## Education
 
-### Lambda School
+### Southern New Hampshire University
 
 In-depth and immersive web development, software engineer and computer science program. Experience in real-world proof of concept applications and project Team Leaderships roles.
 
